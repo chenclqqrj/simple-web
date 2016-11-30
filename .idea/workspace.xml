@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef960846-31eb-49ee-a6a2-6b907e389caa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_caucho_resin_hessian_4_0_37.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/simple_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/simple_web_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/simple-web.iml" afterPath="$PROJECT_DIR$/simple-web.iml" />
     </list>
     <ignored path="simple-web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,8 +58,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44230768">
-              <caret line="102" column="21" selection-start-line="98" selection-start-column="3" selection-end-line="102" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.26943004">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -984,12 +987,12 @@
       <created>1480478375559</created>
       <option name="number" value="Default" />
       <updated>1480478375559</updated>
-      <workItem from="1480478380924" duration="6829000" />
+      <workItem from="1480478380924" duration="7344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6829000" />
+    <option name="totallyTimeSpent" value="7344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1108,8 +1111,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44230768">
-          <caret line="102" column="21" selection-start-line="98" selection-start-column="3" selection-end-line="102" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.26943004">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding />
         </state>
       </provider>

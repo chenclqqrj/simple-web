@@ -14,6 +14,25 @@
     <slf4j.version>1.7.1</slf4j.version>
     <systemPath.dir>${basedir}/src/main/webapp/WEB-INF/lib</systemPath.dir>
   </properties>
+  <repositories>
+    <repository>
+      <id>Cloudhopper</id>
+      <name>Cloudhopper Repository</name>
+      <url>http://maven.cloudhopper.com/repos/third-party/</url>
+      <releases>
+        <enabled>true</enabled>
+      </releases>
+    </repository>
+    <repository>
+      <id>Apache</id>
+      <name>Apache Public</name>
+      <url>http://repository.apache.org/content/repositories/releases/</url>
+      <releases>
+        <enabled>true</enabled>
+      </releases>
+    </repository>
+  </repositories>
+
   <dependencies>
     <dependency>
       <groupId>javax.inject</groupId>
@@ -127,11 +146,6 @@
       <groupId>commons-codec</groupId>
       <artifactId>commons-codec</artifactId>
       <version>1.6</version>
-    </dependency>
-    <dependency>
-      <groupId>com.caucho</groupId>
-      <artifactId>resin-hessian</artifactId>
-      <version>4.0.37</version>
     </dependency>
     <dependency>
       <groupId>dom4j</groupId>
