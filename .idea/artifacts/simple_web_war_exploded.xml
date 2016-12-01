@@ -31,6 +31,9 @@
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.6.12" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.6.12" />
           <element id="library" level="project" name="Maven: javax.xml:jaxp-api:1.4.2" />
+          <element id="library" level="project" name="Maven: org.nutz:nutz:1.b.52" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.27" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.40" />
         </element>
       </element>
       <element id="directory" name="META-INF">
