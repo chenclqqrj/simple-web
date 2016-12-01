@@ -1,1 +1,1 @@
-web:    java -jar target/dependency/webapp-runner.jar --port 8080 target/simple-web.war
+web:    java -jar target/dependency/webapp-runner.jar --port $PORT target/simple-web.war
