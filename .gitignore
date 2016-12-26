@@ -1,3 +1,6 @@
 /webapp
-target
 /src/main/webapp/WEB-INF/classes
+target/classes
+target/generated-sources
+target/maven-archiver
+target/surefire
